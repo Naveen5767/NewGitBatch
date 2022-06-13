@@ -10,6 +10,10 @@ public class Example {
 		System.out.println("EmpId : 2345");
 	}
 	
+	public void empName() {
+		System.out.println("EmpName: Naveen");
+	}
+	
 	public static void main(String[] args) {
 		
 	}
